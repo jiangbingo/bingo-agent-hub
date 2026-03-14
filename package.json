@@ -1,0 +1,24 @@
+{
+  "name": "bingo-agent-hub",
+  "version": "1.0.0",
+  "description": "统一的 AI Agent 平台入口",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "devops",
+    "rag",
+    "lora",
+    "skills"
+  ],
+  "author": "jiangbingo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiangbingo/bingo-agent-hub.git"
+  }
+}
